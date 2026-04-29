@@ -4,10 +4,10 @@
 
 ~ Purpose: Host traditional web app
 
-~ AWS Services
+~ AWS Services:
 
-          EC2
-          RDS
+                    EC2
+                    RDS
 
 EC2 Instance:
 
